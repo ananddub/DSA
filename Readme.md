@@ -1,19 +1,21 @@
+
 ## FDSA
 # 2015
     Very Short
-            1.Compare among best case, average case and worst-case complexities with example.
             1.The frequency count of the statement for K=3 to (m+2) c’ c’’ is
             2.For the array A with alpha=220 as the base address, find the address of the element specified in A|-2:4, -6:10|.
-            2.How to analyze recursive programs? Explain with example.
             3. The complexity of binary search algorithm is:
-            3.Give advantages and uses of a circular linked list.
             4. Linear search is performed on a sorted array T/F:  
-            4.How does linked stack differ from linear array?
             5.What is the postfix equivalents of the given infix expression?
             6. Reverse polish notation is the other name of:
             7.Degree of a leaf node is:
             8.The depth of root node is:
             9.A binary tree of height h has at least h nodes and atmost nodes. Short
+    Short 
+            1.Compare among best case, average case and worst-case complexities with example.
+            2.How to analyze recursive programs? Explain with example.
+            3.Give advantages and uses of a circular linked list.
+            4.How does linked stack differ from linear array?
     Very Long
             3.What do you mean by complete binary tree and extended binary tree? Construct a binary tree from the given inorder and preorder transversals:
             4.Define m-way search tree. How to insertion and deletion operations performed in an m-way search tree?
